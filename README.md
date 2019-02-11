@@ -21,4 +21,7 @@ Car Rental System Design using Object oriented concepts  in C#
 5. You can see the Reservations made under Reservations Tab
      ![image](https://user-images.githubusercontent.com/11298759/52545992-dcd18980-2d89-11e9-837d-8c86a7e421fc.png)
      
-6. If we try to reserve the same car with the same time frame it will give an error.
+6. If we try to reserve the same car with same time frame as already reserved, it will give an error.
+     ![image](https://user-images.githubusercontent.com/11298759/52546042-2ae68d00-2d8a-11e9-8624-9f5a4d29d3b7.png)
+     
+7. We can book the car with same From and To Dates and no-overlapping time frames successfully.
