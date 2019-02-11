@@ -9,7 +9,7 @@ Car Rental System Design using Object oriented concepts  in C#
       ![image](https://user-images.githubusercontent.com/11298759/52545833-90d21500-2d88-11e9-8b8c-1943e069bb73.png)
 
       
-2. Click the Book button and fill out the Booking details panel
+2. Click the Book button and fill out the Booking Details panel
        ![image](https://user-images.githubusercontent.com/11298759/52545890-148c0180-2d89-11e9-8c4b-650d157732ed.png)
 
 3. Once you Click Save and there is no overlapping Timeframe and DateFrame, your reservation will be succesful.
@@ -21,8 +21,8 @@ Car Rental System Design using Object oriented concepts  in C#
 5. You can see the Reservations made under Reservations Tab
      ![image](https://user-images.githubusercontent.com/11298759/52545992-dcd18980-2d89-11e9-837d-8c86a7e421fc.png)
      
-6. If we try to reserve the same car with same time frame as already reserved, it will give an error.
+6. If we try to reserve the same car with same time frame (Reserved Already) it will give an error.
      ![image](https://user-images.githubusercontent.com/11298759/52546042-2ae68d00-2d8a-11e9-8624-9f5a4d29d3b7.png)
      
-7. We can book the car with same From and To Dates and no-overlapping time frames successfully.
+7. We can book the same car with same From and To Dates and no-overlapping time frames successfully.
      ![image](https://user-images.githubusercontent.com/11298759/52546082-8b75ca00-2d8a-11e9-8990-0f8650f8de59.png)
