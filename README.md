@@ -18,6 +18,7 @@ Car Rental System Design using Object oriented concepts  in C#
 4. Once you select a particluar Car, Is Available Checkbox is uncehcked- Since the car is no longer Available and is Reserved.
      ![image](https://user-images.githubusercontent.com/11298759/52545973-b01d7200-2d89-11e9-95c1-a3f34d0eb432.png)
 
-
-
-4. You can see the Reservations made under Reservations Tab
+5. You can see the Reservations made under Reservations Tab
+     ![image](https://user-images.githubusercontent.com/11298759/52545992-dcd18980-2d89-11e9-837d-8c86a7e421fc.png)
+     
+6. If we try to reserve the same car with the same time frame it will give an error.
