@@ -1,0 +1,7 @@
+C:\Projects\CarRentalSystemDesignNew\CarRentalSystemTests\bin\Debug\CarRentalSystemTests.dll
+C:\Projects\CarRentalSystemDesignNew\CarRentalSystemTests\bin\Debug\CarRentalSystemTests.pdb
+C:\Projects\CarRentalSystemDesignNew\CarRentalSystemTests\bin\Debug\CarRentalSystemDesignNew.exe
+C:\Projects\CarRentalSystemDesignNew\CarRentalSystemTests\bin\Debug\CarRentalSystemDesignNew.pdb
+C:\Projects\CarRentalSystemDesignNew\CarRentalSystemTests\obj\Debug\CarRentalSystemTests.csprojResolveAssemblyReference.cache
+C:\Projects\CarRentalSystemDesignNew\CarRentalSystemTests\obj\Debug\CarRentalSystemTests.dll
+C:\Projects\CarRentalSystemDesignNew\CarRentalSystemTests\obj\Debug\CarRentalSystemTests.pdb
