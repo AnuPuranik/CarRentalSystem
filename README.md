@@ -13,3 +13,9 @@ Car Rental System Design using Object oriented concepts  in C#
        ![image](https://user-images.githubusercontent.com/11298759/52545890-148c0180-2d89-11e9-8c4b-650d157732ed.png)
 
 3. Once you Click Save and there is no overlapping Timeframe and DateFrame, your reservation will be succesful.
+      ![image](https://user-images.githubusercontent.com/11298759/52545921-59179d00-2d89-11e9-84d3-84b167359ae5.png)
+      
+4. Once you select a particluar Car, Is Available Checkbox is uncehcked- Since the car is no longer Available and is Reserved.
+
+
+4. You can see the Reservations made under Reservations Tab
