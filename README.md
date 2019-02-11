@@ -16,6 +16,8 @@ Car Rental System Design using Object oriented concepts  in C#
       ![image](https://user-images.githubusercontent.com/11298759/52545921-59179d00-2d89-11e9-84d3-84b167359ae5.png)
       
 4. Once you select a particluar Car, Is Available Checkbox is uncehcked- Since the car is no longer Available and is Reserved.
+     ![image](https://user-images.githubusercontent.com/11298759/52545973-b01d7200-2d89-11e9-95c1-a3f34d0eb432.png)
+
 
 
 4. You can see the Reservations made under Reservations Tab
